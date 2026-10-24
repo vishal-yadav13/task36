@@ -96,4 +96,4 @@ This is a learning project made to understand basic JWT authentication and React
 
 ## Aouther
 
-Ashish kumar
+ vishal kumar
